@@ -1,2 +1,2 @@
-Git is aversion control syystem
+Git is a distrubted control syystem
 Git is free software
