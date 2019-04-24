@@ -2,4 +2,4 @@
 
 我是第四版
 
-createing a new brach is quick.
+createing a new brach is quick & simple.
