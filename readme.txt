@@ -2,4 +2,5 @@
 
 我是第四版
 
-createing a new brach is quick & simple.
+creating a new branch is quick AND simple.
+
